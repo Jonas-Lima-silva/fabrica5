@@ -63,7 +63,18 @@ body {
 }
 
 .pai {
-   
+    width: 400px; /* Largura fixa para a div */
+    padding: 20px;
+    background-color: #000; /* Cor de fundo da div */
+    border-radius: 20px;
+    display: flex; /* Torna a div um contêiner flexível */
+    flex-direction: column; /* Alinha os itens em coluna */
+    align-items: center; /* Centraliza os itens horizontalmente */
+    justify-content: center; /* Centraliza os itens verticalmente */
+    text-align: center; /* Centraliza o texto dentro da div */
+    position: relative; /* Para posicionar elementos internos se necessário */
+    right: 0; /* Posiciona a div no lado direito */
+    margin-right: 50px;
 }
 .content{
     right:100px
