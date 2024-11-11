@@ -14,14 +14,16 @@ body {
 
 .home-icon {
     position: absolute;
-    top: 10px;
-    left: 10px;
+    top: 0; 
+    left: 5px;
+    
 }
 
 .home-icon img {
-    width: 40px;
+    width: 30px;
     height: auto;
     cursor: pointer;
+    background-color:#6d6a6a
 }
 
 .sidebar {
@@ -61,14 +63,12 @@ body {
 }
 
 .pai {
-    flex-grow: 1;
-    margin: 50px;
-    padding: 20px;
-    background-color: #000;
-    border-radius: 20px;
-    max-width: 600px;
+   
 }
-
+.content{
+    right:100px
+    ;
+}
 h2 {
     margin-bottom: 15px;
 }
