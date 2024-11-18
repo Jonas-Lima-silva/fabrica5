@@ -67,6 +67,7 @@ body {
     align-items: center;
     flex: 1;
     padding: 40px;
+    
 }
 
 .content {
@@ -75,6 +76,7 @@ body {
     border-radius: 10px;
     width: 350px;
     text-align: left;
+    
 }
 
 h2 {

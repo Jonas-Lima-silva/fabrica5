@@ -16,6 +16,7 @@ body {
     position: absolute;
     top: 2px;
     left: 20px;
+    
 }
 
 .home-icon img {
@@ -65,6 +66,8 @@ body {
     justify-content: center;
     align-items: center;
     padding: 40px;
+    height: 1000px;
+
 }
 
 .content {
@@ -73,6 +76,8 @@ body {
     border-radius: 10px;
     width: 350px;
     text-align: left;
+    
+    
 }
 
 h2 {
